@@ -1,0 +1,1 @@
+<img src="{{ URL::asset('img/cesta.png') }}" alt="cesta" style="max-width: 100%; max-height: 100%;">
